@@ -18,3 +18,8 @@ const labtocat = "this is a cat"
 console.log(labtocat)
 ```
 ### this is a cool cat
+### this is a list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Nice try
